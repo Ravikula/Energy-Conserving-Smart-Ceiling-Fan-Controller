@@ -3,7 +3,7 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 
-//this is used to get the timer for smpling
+
 #include <BlynkSimpleEsp8266.h>
 
 //wifi connect
@@ -53,7 +53,7 @@ void reconnect() {
 //current sensor connected to A0 pin
 const int sensorIn = A0;
 
-int mVperAmp = 185; // use 100 for 20A Module and 66 for 30A Module
+int mVperAmp = 185; 
 
 double Voltage = 0;
 double VRMS = 0;
