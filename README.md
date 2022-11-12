@@ -8,3 +8,8 @@ This project is structured in to 3 main parts.
   3.Cloud integration
 
 #problem statement
+
+In tropical countries like Sri Lanka, ceiling fans are very widely used. But their operation is often unattended. As a resul, a significant amount of energy is being wasted. 
+
+#solution
+
