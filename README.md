@@ -11,5 +11,4 @@ This project is structured in to 3 main parts.
 
 In tropical countries like Sri Lanka, ceiling fans are very widely used. But their operation is often unattended. As a resul, a significant amount of energy is being wasted. 
 
-#solution
 
